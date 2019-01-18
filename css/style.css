@@ -1,0 +1,15 @@
+body{
+  background:grey;
+  color: yellow;
+  size: 150%;
+  margin:5%;
+
+}
+
+p{
+  font-family: Arial;
+}
+
+a{
+  color:black;
+}
